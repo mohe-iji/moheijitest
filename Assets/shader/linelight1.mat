@@ -7,7 +7,7 @@ Material:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: linelight1
-  m_Shader: {fileID: 4800000, guid: b6d4f75146ccf7e46a58dd535ee57226, type: 3}
+  m_Shader: {fileID: 4800000, guid: 0375be684bdea354d8f3a5d38559d4b7, type: 3}
   m_ShaderKeywords: _CULL_STANDARD(BACK) _INCLUDINGBLACK_ON _ZWRITE_ON_OFF_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
