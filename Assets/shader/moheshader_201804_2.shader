@@ -1,5 +1,9 @@
-﻿Shader "Custom/moheshader201804_2" {
+﻿Shader "moheshader/moheshader201804_2" {
 	Properties{
+		//Copyright (c) 2018 moheiji
+		//Released under the MIT license
+		//https://opensource.org/licenses/mit-license.php 
+
 		//[Enum(Enum(UnityEngine.Rendering.)]_USEMODE("Usemode",float) = 0
 
 		//_Bump("Bump",2D) = "white"{}
